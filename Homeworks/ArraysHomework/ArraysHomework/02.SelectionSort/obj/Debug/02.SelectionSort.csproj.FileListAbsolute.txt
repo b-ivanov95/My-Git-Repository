@@ -1,0 +1,5 @@
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\ArraysHomework\ArraysHomework\02.SelectionSort\bin\Debug\02.SelectionSort.exe.config
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\ArraysHomework\ArraysHomework\02.SelectionSort\bin\Debug\02.SelectionSort.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\ArraysHomework\ArraysHomework\02.SelectionSort\bin\Debug\02.SelectionSort.pdb
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\ArraysHomework\ArraysHomework\02.SelectionSort\obj\Debug\02.SelectionSort.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\ArraysHomework\ArraysHomework\02.SelectionSort\obj\Debug\02.SelectionSort.pdb

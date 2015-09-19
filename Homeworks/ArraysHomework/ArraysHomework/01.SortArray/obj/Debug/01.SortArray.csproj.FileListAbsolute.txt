@@ -1,0 +1,6 @@
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\ArraysHomework\ArraysHomework\01.SortArray\bin\Debug\01.SortArray.exe.config
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\ArraysHomework\ArraysHomework\01.SortArray\obj\Debug\01.SortArray.csprojResolveAssemblyReference.cache
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\ArraysHomework\ArraysHomework\01.SortArray\bin\Debug\01.SortArray.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\ArraysHomework\ArraysHomework\01.SortArray\bin\Debug\01.SortArray.pdb
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\ArraysHomework\ArraysHomework\01.SortArray\obj\Debug\01.SortArray.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\ArraysHomework\ArraysHomework\01.SortArray\obj\Debug\01.SortArray.pdb
