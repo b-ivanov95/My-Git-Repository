@@ -1,0 +1,5 @@
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\02.LaptopShop\obj\Debug\02.LaptopShop.pdb

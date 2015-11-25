@@ -1,0 +1,5 @@
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\03.PC_Catalog\bin\Debug\03.PC_Catalog.exe.config
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\03.PC_Catalog\bin\Debug\03.PC_Catalog.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\03.PC_Catalog\bin\Debug\03.PC_Catalog.pdb
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\03.PC_Catalog\obj\Debug\03.PC_Catalog.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\03.PC_Catalog\obj\Debug\03.PC_Catalog.pdb

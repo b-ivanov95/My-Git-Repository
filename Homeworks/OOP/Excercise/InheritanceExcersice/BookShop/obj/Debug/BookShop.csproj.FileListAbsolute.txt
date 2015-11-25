@@ -1,0 +1,6 @@
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\Excercise\InheritanceExcersice\BookShop\bin\Debug\BookShop.exe.config
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\Excercise\InheritanceExcersice\BookShop\bin\Debug\BookShop.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\Excercise\InheritanceExcersice\BookShop\bin\Debug\BookShop.pdb
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\Excercise\InheritanceExcersice\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\Excercise\InheritanceExcersice\BookShop\obj\Debug\BookShop.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\Excercise\InheritanceExcersice\BookShop\obj\Debug\BookShop.pdb

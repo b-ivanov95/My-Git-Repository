@@ -1,0 +1,6 @@
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\ExceptionHandling\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\ExceptionHandling\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\ExceptionHandling\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.pdb
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\ExceptionHandling\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\ExceptionHandling\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\ExceptionHandling\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.pdb

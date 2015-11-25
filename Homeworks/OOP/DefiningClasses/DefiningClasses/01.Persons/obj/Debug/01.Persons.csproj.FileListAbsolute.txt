@@ -1,0 +1,5 @@
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\01.Persons\bin\Debug\01.Persons.exe.config
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\01.Persons\bin\Debug\01.Persons.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\01.Persons\bin\Debug\01.Persons.pdb
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\01.Persons\obj\Debug\01.Persons.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\DefiningClasses\DefiningClasses\01.Persons\obj\Debug\01.Persons.pdb

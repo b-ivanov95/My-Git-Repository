@@ -1,0 +1,5 @@
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\ExceptionHandling\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\ExceptionHandling\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\ExceptionHandling\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\ExceptionHandling\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+F:\SoftUni\GitHub\My-Git-Repository\Homeworks\OOP\ExceptionHandling\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb
